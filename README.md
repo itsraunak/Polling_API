@@ -62,4 +62,4 @@ $ npm start
 ``` localhost:8000/api/v1/options/:id/delete ```
 
 * Delete Question :-
-``````
+``` localhost:8000/api/v1/questions/:id/delete ```
