@@ -63,3 +63,30 @@ $ npm start
 
 * Delete Question :-
 ``` localhost:8000/api/v1/questions/:id/delete ```
+
+
+
+## Folder Structure
+
+
+POLLING_API
+
+├── config
+│ --- └── mongoose.js
+├── controllers
+│ --- └── optionController.js
+│ --- └── questionController.js
+├── models
+│ --- ├── options.js
+│ --- └── questions.js
+├── node_modules
+├── routes
+│ --- ├── api/v1
+│       --- ├── index.js
+|       --- ├──
+|       --- └──questions.js
+├── .gitignore
+├── index.js
+├── package-lock.json
+├── package.json
+└── README.md
