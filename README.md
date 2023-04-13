@@ -69,24 +69,23 @@ $ npm start
 ## Folder Structure
 
 
-POLLING_API
-
-├── config
-│ --- └── mongoose.js
-├── controllers
-│ --- └── optionController.js
-│ --- └── questionController.js
-├── models
-│ --- ├── options.js
-│ --- └── questions.js
+POLLING_API <br>
+├── config <br>
+│ --- └── mongoose.js <br>
+├── controllers <br>
+│ --- └── optionController.js <br>
+│ --- └── questionController.js <br>
+├── models <br>
+│ --- ├── options.js <br>
+│ --- └── questions.js <br>
 ├── node_modules
 ├── routes
-│ --- ├── api/v1
-│       --- ├── index.js
+│ --- ├── api/v1 <br>
+│       --- ├── index.js <br>
 |       --- ├──
-|       --- └──questions.js
-├── .gitignore
-├── index.js
-├── package-lock.json
-├── package.json
-└── README.md
+|       --- └──questions.js <br>
+├── .gitignore <br>
+├── index.js <br>
+├── package-lock.json <br>
+├── package.json <br>
+└── README.md <br>
