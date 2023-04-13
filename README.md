@@ -85,7 +85,7 @@ POLLING_API <br>
 | -------- |--- ├── index.js <br>
 | -------- |--- ├── options.js <br>
 | -------- |--- └──questions.js <br>
-| -------- └── index.js <br>    
+| -------- └── index.js <br>
 ├── .gitignore <br>
 ├── index.js <br>
 ├── package-lock.json <br>
